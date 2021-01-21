@@ -1,0 +1,6 @@
+#this file is merged from file1 and file2 using python
+
+this is file 1 sentence
+Hello Anand Prabhakar
+this is file 2 sentence
+lets upgrade us by learning python
