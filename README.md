@@ -6,7 +6,7 @@
 - Assignment2 20/02/2020 - [Problem](https://drive.google.com/drive/folders/19O3NqnSiFZzQAIMGy2SeHFs7X74KMH-4)  Solutions : [solution](https://github.com/anandprabhakar0507/Lets-upgrade-python-assignments/blob/main/Assignment%202%20solution.ipynb)  [pdf](https://github.com/anandprabhakar0507/Lets-upgrade-python-assignments/blob/main/Assignment%202%20solution.pdf)  [html](https://github.com/anandprabhakar0507/Lets-upgrade-python-assignments/blob/main/Assignment%202%20solution.html)  
 
 - Assignment3 21/01/2020 - [Problem](
-https://drive.google.com/drive/folders/13vO_T3op_V0XctYWuqYlk4mcknHTrF2A)  Solutions : [notebook]() [pdf]() [html()]
+https://drive.google.com/drive/folders/13vO_T3op_V0XctYWuqYlk4mcknHTrF2A)  Solutions : [notebook](https://github.com/anandprabhakar0507/Lets-upgrade-python-assignments/blob/main/Assignment%203%20solution.ipynb) [pdf]() [html()]
 
 
 #### This Repository contains assignment solutions of Anand Prabhakar 
